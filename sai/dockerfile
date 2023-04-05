@@ -1,5 +1,5 @@
 FROM almalinux
 run yum install nginx -y
-ENV "student=saikiran
-     course=dummy
-     duration=45 days"
+ENV student="saikiran"\
+     
+     duration="045 days"
